@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14674085326",
+    "project_id": "secret-keeper-71fa0",
+    "storage_bucket": "secret-keeper-71fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14674085326:android:a80a4fee8e091c9e95979f",
+        "android_client_info": {
+          "package_name": "com.pawarsproduction.secret_keeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14674085326-c9s5o2bi36k8ac0t675jt0m9ok5i0sqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawarsproduction.secret_keeper",
+            "certificate_hash": "a1ed1873566cadd0acb3107f834f5f1fbc48bd5a"
+          }
+        },
+        {
+          "client_id": "14674085326-hid3kkqv9vesbg3uto2s8ff7o1he5hb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdXhq-bcQEW1XrCUa0JS4jRqFt07H_ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14674085326-hid3kkqv9vesbg3uto2s8ff7o1he5hb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
